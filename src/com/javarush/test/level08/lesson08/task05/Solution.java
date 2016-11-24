@@ -34,8 +34,6 @@ public class Solution
                 map.remove(item.getKey());
             }
         }
-
-
     }
 
     public static void removeItemFromMapByValue(HashMap<String, String> map, String value)
